@@ -7,6 +7,7 @@ public class User {
 
 	private static final String OK = "Updated";
 	private static final String FAIL = "Fail";
+	private static final String FAILINGOKK = "FailOK";
 
 	private String mockDataBase;
 
